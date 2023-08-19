@@ -1,0 +1,3 @@
+1650	suresh	finance	salem	30030
+1525	preetham	finance	bangalore	90000
+1505	kingo	sales	delhi	88888
