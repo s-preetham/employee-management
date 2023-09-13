@@ -1,3 +1,3 @@
 1001	hulla	sales	kochi	8989
 1002	hulla	sales	buulla	88989
-1003	shaun	sales	nellore	78878
+1000	ruchi	sales	bangalore	77777
